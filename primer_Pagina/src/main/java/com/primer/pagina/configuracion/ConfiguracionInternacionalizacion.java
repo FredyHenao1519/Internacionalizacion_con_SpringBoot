@@ -1,4 +1,4 @@
-package com.primer.pagina.controllers;
+package com.primer.pagina.configuracion;
 
 import org.springframework.context.MessageSource;
 import org.springframework.context.annotation.Bean;
